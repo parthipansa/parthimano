@@ -1,0 +1,36 @@
+body{
+    background-image: url(https://www.shutterstock.com/image-illustration/fantasy-tints-ombre-pattern-on-260nw-1156379902.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+}
+.main{
+    display: flex;
+    padding: 2%;
+    margin-left: 10%;
+}
+img{
+    height: 200px;
+    width: 200px;
+   
+}
+.container{
+    background-color: #fff;
+    margin: 2%;
+    height: 400px;
+    width: 350px;
+    border-radius: 30px;
+}
+button{
+    height: 30px;
+    width: 60px;
+    
+}
+.img{
+    text-align: center;
+}
+button:hover{
+    background-color: turquoise;
+}
